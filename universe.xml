@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<universes xmlns="http://www.space.kz/space.xsd">
+    <universe name="Космос 1">
+        <galaxy name="Млечный путь">
+            <system name="Солнечная система" galaxy="Млечный путь">
+                <star galaxy="Млечный путь" system="Солнечная система">Солнце</star>
+                <planet galaxy="Млечный путь" system="Солнечная система">Меркурий</planet>
+                <planet galaxy="Млечный путь" system="Солнечная система">Венера</planet>
+                <planet galaxy="Млечный путь" system="Солнечная система">Земля</planet>
+                <planet galaxy="Млечный путь" system="Солнечная система">Марс</planet>
+                <planet galaxy="Млечный путь" system="Солнечная система">Юпитер</planet>
+                <planet galaxy="Млечный путь" system="Солнечная система">Сатурн</planet>
+                <planet galaxy="Млечный путь" system="Солнечная система">Уран</planet>
+                <planet galaxy="Млечный путь" system="Солнечная система">Нептун</planet>
+            </system>
+        </galaxy>
+    </universe>
+</universes>
